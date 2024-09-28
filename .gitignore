@@ -1,0 +1,31 @@
+# Ignore bin folders
+**/bin/
+
+# Ignore obj folders
+**/obj/
+
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+AnyCPU/
+*.dll
+*.exe
+*.pdb
+*.app
+*.apk
+*.ipa
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Rider projects
+.idea/
